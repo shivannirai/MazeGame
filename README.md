@@ -3,13 +3,13 @@
 Our "Maze Game" project has been pivotal in our exploration of Computer Graphics using C++ alongside OpenGL. We've applied practical insights to craft a user-friendly maze game, challenging players to navigate through obstacles and reach the exit within a specified time, fostering a sense of achievement and progress. effortlessly with Routinizer.
 ### :two: Specifications
 Hardware Specifications:<br>
-• INTEL dual core and above compatible systems.
-• Monitor,Keyboard, Mouse.
+• INTEL dual core and above compatible systems.<br>
+• Monitor,Keyboard, Mouse.<br>
 • RAM-512MB(minimum). <br>
 
 Software Specifications:<br>
-• Windows 10, 64 bits/Ubuntu.
-• OpenGL.
+• Windows 10, 64 bits/Ubuntu.<br>
+• OpenGL.<br>
 • DevC++ Software
 
 ### :three: Architecture Diagram
