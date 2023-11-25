@@ -1,6 +1,6 @@
 # Maze Game
 ### :one: Introduction
-Our "Maze Game" project has been pivotal in our exploration of Computer Graphics using C++ alongside OpenGL. We've applied practical insights to craft a user-friendly maze game, challenging players to navigate through obstacles and reach the exit within a specified time, fostering a sense of achievement and progress. effortlessly with Routinizer.
+Our "Maze Game" project has been pivotal in our exploration of Computer Graphics using C++ alongside OpenGL. We've applied practical insights to craft a user-friendly maze game, challenging players to navigate through obstacles and reach the exit within a specified time, fostering a sense of achievement and progress. 
 ### :two: Specifications
 Hardware Specifications:<br>
 • INTEL dual core and above compatible systems.<br>
